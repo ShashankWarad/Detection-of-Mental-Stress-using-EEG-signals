@@ -1,0 +1,5 @@
+[theme]
+page_title = "Emotion State Prediction App"
+page_icon = "🧠"
+base="dark"
+primaryColor="purple"
